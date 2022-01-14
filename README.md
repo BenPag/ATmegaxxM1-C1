@@ -17,7 +17,9 @@ CAN containing CPUs.
 Future:
   * Inclusion of ATmega32C1, ATmega64C1
 
-
+PlatformIO Support
+------------
+This is fork of [thomasonw/ATmegaxxM1-C1](https://github.com/thomasonw/ATmegaxxM1-C1) and bring a Tool up support for [PlatformIO](https://platformio.org/). 
 
 Enhancements
 ------------

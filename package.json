@@ -1,0 +1,40 @@
+{
+  "name": "framework-arduino-megaavr-atmegaxxm1-c1",
+  "version": "1.0.9",
+  "description": "Arduino Wiring-based Framework for Microchip ATmega16M1 ATmega32M1 ATmega64M1 ATmega16C1 ATmega32C1 ATmega64C1",
+  "keywords": [
+    "framework",
+    "arduino",
+    "microchip",
+    "megaavr",
+    "atmegam1"
+  ],
+  "frameworks": ["arduino"],
+  "platforms": ["atmelavr", "atmelmegaavr"],
+  "license": "LGPL-2.1-or-later",
+  "authors": [
+    {
+      "name": "Al Thomason",
+      "email": "thomason.al@gmail.com",
+      "url": "https://github.com/thomasonw"
+    },
+    {
+      "name": "Benjamin Pagelsdorf",
+      "email": "bpagelsdorf@outlook.de",
+      "url": "https://github.com/BenPag",
+      "maintainer": true
+    }
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/BenPag/ATmegaxxM1-C1"
+  },
+  "export": {
+    "exclude":
+    [
+      ".idea",
+      "atmegaxxM1 Arduino port mapping.png",
+      ".gitignore"
+    ]
+  }
+}
